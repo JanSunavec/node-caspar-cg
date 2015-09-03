@@ -3,11 +3,6 @@
 	"description": "Caspar CG to Node interface",
 	"version": "0.0.9",
 	"author": "Kevin Smith (@respectTheCode)",
-	"homepage": "https://github.com/respectTheCode/node-caspar-cg",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/respectTheCode/node-caspar-cg.git"
-	},
 	"scripts": {
 		"test": "grunt mochaTest"
 	},
